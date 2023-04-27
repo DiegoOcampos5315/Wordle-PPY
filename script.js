@@ -1,6 +1,6 @@
     let intentos = 6;
    
-    let diccionario = ["APPLE", "HURLS","WINGS", "YOUTH", "VOTE", "UNCLE", "STARS"];
+    let diccionario = ["APPLE", "HURLS","WINGS", "YOUTH", "ENEMY", "UNCLE", "STARS"];
     
     let palabra = diccionario [Math.floor(Math.random() * (diccionario.length))];
     function random(){
